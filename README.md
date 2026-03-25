@@ -101,20 +101,24 @@ The dataset contains key business and marketing variables:
 <hr>
 
 <h2> Project Structure</h2>
-<ul>
-  <li> Dashboard.pbix – Power BI dashboard file</li>
-  <li> Dataset – Excel/CSV files used</li>
-  <li> Images – Dashboard screenshots</li>
-  <li> README.md – Project documentation</li>
-</ul>
+<pre>
+Marketing & Sales Analytics Dashboard (Power BI)
+│── marketing_sales_dashboard.pbix
+│── Dataset
+│   ├── train.csv
+│   ├── test.csv
+│── Images
+│   ├── marketing_campaign_performance_dashboard.png
+│   ├── sales_and_marketing_performance_dashboard.png
+│── README.md
+</pre>
 
 <hr>
 
 <h2> About Me</h2>
 <p>
-<b>Anjana</b><br>
-BBA Student | Specialization in Business Analytics & Digital Marketing<br>
-Passionate about data-driven decision making and visualization.
+<b>Anjana C</b><br>
+Aspiring Data Analyst | Power BI • Excel • Data Visualization<br>
 </p>
 
 <hr>
