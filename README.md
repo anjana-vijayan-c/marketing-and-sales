@@ -21,7 +21,7 @@ The dashboards focus on evaluating campaign effectiveness, optimizing channel pe
 <h2> Dashboards Overview</h2>
 
 <h3>1️. Marketing Campaign Performance Dashboard</h3>
-<img src="marketing_dashboard.png" alt="Marketing Dashboard" width="100%">
+<img src="marketing_campaign_performance_dashboard.png" alt="Marketing Dashboard" width="100%">
 
 <ul>
   <li> Total Ad Spend & Campaign Efficiency</li>
