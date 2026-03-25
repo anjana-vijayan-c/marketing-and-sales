@@ -52,21 +52,6 @@ The dashboards focus on evaluating campaign effectiveness, optimizing channel pe
   <li> <b>Business Analytics</b> – Insight generation and performance analysis</li>
 </ul>
 
-<hr>
-
-<h2> Dataset Description</h2>
-<p>
-The dataset contains key business and marketing variables:
-</p>
-
-<ul>
-  <li>Region, Channel, Product Category</li>
-  <li>Customer Segment</li>
-  <li>Ad Spend, Impressions</li>
-  <li>Click-Through Rate (CTR)</li>
-  <li>Sales Revenue</li>
-  <li>Customer Lifetime Value (CLV)</li>
-</ul>
 
 <hr>
 
