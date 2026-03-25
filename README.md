@@ -32,7 +32,7 @@ The dashboards focus on evaluating campaign effectiveness, optimizing channel pe
 </ul>
 
 <h3>2️. Sales & Marketing Performance Dashboard</h3>
-<img src="sales_dashboard.png" alt="Sales Dashboard" width="100%">
+<img src="sales_and_marketing_performance_dashboard.png" alt="Sales Dashboard" width="100%">
 
 <ul>
   <li> Total Sales Revenue & KPI Tracking</li>
